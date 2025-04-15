@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/534117416134007258/c4c30bc3f09642899521bc3a102e0a6b/artifacts
+end_time: 1744312649594
+entry_point_name: ''
+experiment_id: '534117416134007258'
+lifecycle_stage: active
+run_id: c4c30bc3f09642899521bc3a102e0a6b
+run_name: bold-roo-865
+run_uuid: c4c30bc3f09642899521bc3a102e0a6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744312649375
+status: 3
+tags: []
+user_id: anamitrasingha

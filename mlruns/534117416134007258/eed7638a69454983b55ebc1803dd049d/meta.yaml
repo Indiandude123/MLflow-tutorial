@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/534117416134007258/eed7638a69454983b55ebc1803dd049d/artifacts
+end_time: 1744696855603
+entry_point_name: ''
+experiment_id: '534117416134007258'
+lifecycle_stage: active
+run_id: eed7638a69454983b55ebc1803dd049d
+run_name: hilarious-shad-848
+run_uuid: eed7638a69454983b55ebc1803dd049d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744696855334
+status: 4
+tags: []
+user_id: anamitrasingha

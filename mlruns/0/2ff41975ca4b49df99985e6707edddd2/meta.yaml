@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2ff41975ca4b49df99985e6707edddd2/artifacts
+end_time: 1744309944891
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ff41975ca4b49df99985e6707edddd2
+run_name: puzzled-shad-142
+run_uuid: 2ff41975ca4b49df99985e6707edddd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744309944874
+status: 3
+tags: []
+user_id: anamitrasingha

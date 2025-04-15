@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/534117416134007258/05af98a71a484a3d8e2a04507803589c/artifacts
+end_time: 1744696896050
+entry_point_name: ''
+experiment_id: '534117416134007258'
+lifecycle_stage: active
+run_id: 05af98a71a484a3d8e2a04507803589c
+run_name: enchanting-hawk-243
+run_uuid: 05af98a71a484a3d8e2a04507803589c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744696892848
+status: 3
+tags: []
+user_id: anamitrasingha

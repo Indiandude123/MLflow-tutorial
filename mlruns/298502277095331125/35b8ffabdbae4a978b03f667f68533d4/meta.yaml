@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/anamitrasingha/Documents/mlops/MLflow-tutorial/mlruns/298502277095331125/35b8ffabdbae4a978b03f667f68533d4/artifacts
+end_time: 1744749038258
+entry_point_name: ''
+experiment_id: '298502277095331125'
+lifecycle_stage: active
+run_id: 35b8ffabdbae4a978b03f667f68533d4
+run_name: respected-wasp-747
+run_uuid: 35b8ffabdbae4a978b03f667f68533d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744749038252
+status: 3
+tags: []
+user_id: anamitrasingha

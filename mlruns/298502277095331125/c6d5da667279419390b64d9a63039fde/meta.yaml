@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/anamitrasingha/Documents/mlops/MLflow-tutorial/mlruns/298502277095331125/c6d5da667279419390b64d9a63039fde/artifacts
+end_time: 1744749038213
+entry_point_name: ''
+experiment_id: '298502277095331125'
+lifecycle_stage: active
+run_id: c6d5da667279419390b64d9a63039fde
+run_name: likeable-flea-748
+run_uuid: c6d5da667279419390b64d9a63039fde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744749038207
+status: 3
+tags: []
+user_id: anamitrasingha

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/anamitrasingha/Documents/mlops/MLflow-tutorial/mlruns/298502277095331125/ab8d464836ca4533a4993086f17b0592/artifacts
+end_time: 1744749038219
+entry_point_name: ''
+experiment_id: '298502277095331125'
+lifecycle_stage: active
+run_id: ab8d464836ca4533a4993086f17b0592
+run_name: auspicious-mole-971
+run_uuid: ab8d464836ca4533a4993086f17b0592
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744749038214
+status: 3
+tags: []
+user_id: anamitrasingha

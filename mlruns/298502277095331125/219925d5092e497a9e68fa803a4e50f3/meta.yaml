@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/anamitrasingha/Documents/mlops/MLflow-tutorial/mlruns/298502277095331125/219925d5092e497a9e68fa803a4e50f3/artifacts
+end_time: 1744749038238
+entry_point_name: ''
+experiment_id: '298502277095331125'
+lifecycle_stage: active
+run_id: 219925d5092e497a9e68fa803a4e50f3
+run_name: persistent-frog-197
+run_uuid: 219925d5092e497a9e68fa803a4e50f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744749038233
+status: 3
+tags: []
+user_id: anamitrasingha
